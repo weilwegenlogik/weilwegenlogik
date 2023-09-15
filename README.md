@@ -7,7 +7,7 @@
 - 🚴‍♂️ Cycling Enthusiast | 📷 Nature & Architecture Photographer
 
 ## Tech Stack
-- 💡 Proficient in JavaScript, HTML, CSS, PHP
+- 💡 Proficient in JavaScript, HTML, CSS, PHP, and Swift(UI)
 - 👾 Game Dev Enthusiast | C# & Python
 - 📚 Currently diving deep into the world of S&box and Source Engine 2
 
